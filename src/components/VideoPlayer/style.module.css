@@ -1,0 +1,18 @@
+.video {
+    height: 100%;
+    width: 100%;
+}
+
+.play {
+    background-image: url('/assets/icons/ico-play.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    border: none;
+    background-color: transparent;
+}
